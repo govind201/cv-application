@@ -9,9 +9,9 @@ class App extends React.Component {
     return (
       <div className="container">
         <h1>CV Project</h1>
-          <GeneralInfo />
-          <Education />
-          <Experience />
+        <GeneralInfo />
+        <Education />
+        <Experience />
       </div>
     );
   }
